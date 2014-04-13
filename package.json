@@ -1,0 +1,15 @@
+{
+  "name": "PhishDB",
+  "version": "0.0.0",
+  "description": "Uses the DEEP Phish research project to help you go phishing!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alec Gorge (alecgorge)",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "sqlite3": "~2.2.1"
+  }
+}
